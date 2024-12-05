@@ -8,21 +8,26 @@ struct Vector2 {
     int x;
     int y;
 
-    Vector2 operator*(int s) {
+    Vector2 operator*(const int s) const {
         return Vector2{
             .x = x * s,
             .y = y * s,
         };
     }
 
-    Vector2 operator+(Vector2 other) {
+    Vector2 operator+(const Vector2 &v2) const {
         return Vector2{
-            .x = x + other.x,
-            .y = y + other.y,
+            .x = x + v2.x,
+            .y = y + v2.y,
         };
     }
 };
-std::ostream &operator<<(std::ostream &os, Vector2 const &v) { 
+
+inline Vector2 operator*(const int s, const Vector2 &v) {
+    return v * s;
+}
+
+std::ostream &operator<<(std::ostream &os, const Vector2 &v) { 
     return os << "Vector2{ .x=" << v.x << ", .y=" << v.y << " }";
 }
 
@@ -45,11 +50,11 @@ std::vector<std::string> linesFromFile(std::string filePath) {
     return lines;
 }
 
-char getCharacterAtPosition(std::vector<std::string>& lines, Vector2 position) {
+char getCharacterAtPosition(const std::vector<std::string>& lines, const Vector2 &position) {
     return lines[position.y][position.x];
 }
 
-bool checkXmasDirection(std::vector<std::string>& lines, Vector2 position, Vector2 direction) {
+bool checkXmasDirection(std::vector<std::string>& lines, const Vector2 &position, const Vector2 &direction) {
     // check if it is even inside the boundries
     int maxX = lines[0].length();
     int maxY = lines.size();
@@ -71,7 +76,7 @@ bool checkXmasDirection(std::vector<std::string>& lines, Vector2 position, Vecto
     return true;
 }
 
-Vector2 directions[8] = {
+const Vector2 directions[8] = {
     { .x = -1, .y = -1 },
     { .x = -1, .y = 0 },
     { .x = -1, .y = 1 },
