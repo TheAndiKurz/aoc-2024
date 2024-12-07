@@ -1,6 +1,6 @@
 const std = @import("std");
 
-fn getLinesFromFile(allocator: std.mem.Allocator, filename: []const u8) ![]const []const u8 {
+fn getLinesFromFile(allocator: std.mem.Allocator, filename: []const u8) !std.ArrayList([]const u8) {
     const file = try std.fs.cwd().openFile(filename, .{});
     defer file.close();
 
@@ -16,7 +16,7 @@ fn getLinesFromFile(allocator: std.mem.Allocator, filename: []const u8) ![]const
         try lines.append(line_mem);
     }
 
-    return lines.items;
+    return lines;
 }
 
 const Input = struct {
@@ -151,6 +151,8 @@ fn part2(allocator: std.mem.Allocator, lines: []const []const u8) !i32 {
     var input = try parse(allocator, lines);
     defer input.deinit();
 
+    std.debug.print("{any}\n", .{&input});
+
     var sum: i32 = 0;
     for (input.pageNumbers.items) |pageNumbers| {
         const items = pageNumbers.items;
@@ -163,11 +165,45 @@ fn part2(allocator: std.mem.Allocator, lines: []const []const u8) !i32 {
     return sum;
 }
 
+test "part 1" {
+    const lines = try getLinesFromFile(std.testing.allocator, "./example.txt");
+    defer {
+        for (lines.items) |line| {
+            std.testing.allocator.free(line);
+        }
+        lines.deinit();
+    }
+
+    const result = try part1(std.testing.allocator, lines.items);
+
+    try std.testing.expectEqual(result, 143);
+}
+
+test "part 2" {
+    const lines = try getLinesFromFile(std.testing.allocator, "./example.txt");
+    defer {
+        for (lines.items) |line| {
+            std.testing.allocator.free(line);
+        }
+        lines.deinit();
+    }
+
+    const result = try part2(std.testing.allocator, lines.items);
+
+    try std.testing.expectEqual(result, 123);
+}
+
 pub fn main() anyerror!void {
     const allocator = std.heap.page_allocator;
 
-    const lines = try getLinesFromFile(allocator, "./example.txt");
-    defer allocator.free(lines);
+    const linesList = try getLinesFromFile(allocator, "./example.txt");
+    const lines = linesList.items;
+    defer {
+        for (lines) |line| {
+            allocator.free(line);
+        }
+        linesList.deinit();
+    }
 
     std.debug.print("part 1: {d}\n", .{try part1(allocator, lines)});
     std.debug.print("part 2: {d}\n", .{try part2(allocator, lines)});
