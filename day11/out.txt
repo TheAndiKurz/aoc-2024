@@ -1,0 +1,2404 @@
+0 8
+1 11
+2 15
+3 19
+4 32
+5 46
+6 68
+7 107
+8 162
+9 229
+10 343
+11 539
+12 806
+13 1210
+14 1829
+15 2875
+16 4259
+17 6439
+18 9912
+19 14770
+20 22636
+21 34486
+22 52336
+23 79503
+24 119557
+part1 result: 183435
+expandGraph(965842, 75)
+divided 965842 into 842 965
+expandGraph(842, 74)
+expandGraph(1704208, 73)
+expandGraph(3449316992, 72)
+divided 3449316992 into 16992 34493
+expandGraph(16992, 71)
+expandGraph(34391808, 70)
+divided 34391808 into 1808 3439
+expandGraph(1808, 69)
+divided 1808 into 8 18
+expandGraph(8, 68)
+expandGraph(16192, 67)
+expandGraph(32772608, 66)
+divided 32772608 into 2608 3277
+expandGraph(2608, 65)
+divided 2608 into 8 26
+expandGraph(8, 64)
+expandGraph(26, 64)
+divided 26 into 6 2
+expandGraph(6, 63)
+expandGraph(12144, 62)
+expandGraph(24579456, 61)
+divided 24579456 into 9456 2457
+expandGraph(9456, 60)
+divided 9456 into 56 94
+expandGraph(56, 59)
+divided 56 into 6 5
+expandGraph(6, 58)
+expandGraph(5, 58)
+expandGraph(10120, 57)
+expandGraph(20482880, 56)
+divided 20482880 into 2880 2048
+expandGraph(2880, 55)
+divided 2880 into 80 28
+expandGraph(80, 54)
+divided 80 into 0 8
+expandGraph(0, 53)
+expandGraph(1, 52)
+expandGraph(2024, 51)
+divided 2024 into 24 20
+expandGraph(24, 50)
+divided 24 into 4 2
+expandGraph(4, 49)
+expandGraph(8096, 48)
+divided 8096 into 96 80
+expandGraph(96, 47)
+divided 96 into 6 9
+expandGraph(6, 46)
+6 already exists
+expandGraph(9, 46)
+expandGraph(18216, 45)
+expandGraph(36869184, 44)
+divided 36869184 into 9184 3686
+expandGraph(9184, 43)
+divided 9184 into 84 91
+expandGraph(84, 42)
+divided 84 into 4 8
+expandGraph(4, 41)
+expandGraph(8, 41)
+8 already exists
+expandGraph(91, 42)
+divided 91 into 1 9
+expandGraph(1, 41)
+expandGraph(9, 41)
+expandGraph(3686, 43)
+divided 3686 into 86 36
+expandGraph(86, 42)
+divided 86 into 6 8
+expandGraph(6, 41)
+6 already exists
+expandGraph(8, 41)
+8 already exists
+expandGraph(36, 42)
+divided 36 into 6 3
+expandGraph(6, 41)
+6 already exists
+expandGraph(3, 41)
+expandGraph(6072, 40)
+divided 6072 into 72 60
+expandGraph(72, 39)
+divided 72 into 2 7
+expandGraph(2, 38)
+expandGraph(4048, 37)
+divided 4048 into 48 40
+expandGraph(48, 36)
+divided 48 into 8 4
+expandGraph(8, 35)
+8 already exists
+expandGraph(4, 35)
+4 already exists
+expandGraph(40, 36)
+divided 40 into 0 4
+expandGraph(0, 35)
+expandGraph(4, 35)
+4 already exists
+expandGraph(7, 38)
+expandGraph(14168, 37)
+expandGraph(28676032, 36)
+divided 28676032 into 6032 2867
+expandGraph(6032, 35)
+divided 6032 into 32 60
+expandGraph(32, 34)
+divided 32 into 2 3
+expandGraph(2, 33)
+2 already exists
+expandGraph(3, 33)
+expandGraph(60, 34)
+divided 60 into 0 6
+expandGraph(0, 33)
+0 already exists
+expandGraph(6, 33)
+6 already exists
+expandGraph(2867, 35)
+divided 2867 into 67 28
+expandGraph(67, 34)
+divided 67 into 7 6
+expandGraph(7, 33)
+expandGraph(6, 33)
+6 already exists
+expandGraph(28, 34)
+divided 28 into 8 2
+expandGraph(8, 33)
+8 already exists
+expandGraph(2, 33)
+2 already exists
+expandGraph(60, 39)
+60 already exists
+expandGraph(80, 47)
+divided 80 into 0 8
+expandGraph(0, 46)
+0 already exists
+expandGraph(8, 46)
+8 already exists
+expandGraph(2, 49)
+2 already exists
+expandGraph(20, 50)
+divided 20 into 0 2
+expandGraph(0, 49)
+0 already exists
+expandGraph(2, 49)
+2 already exists
+expandGraph(8, 53)
+8 already exists
+expandGraph(28, 54)
+28 already exists
+expandGraph(2048, 55)
+divided 2048 into 48 20
+expandGraph(48, 54)
+48 already exists
+expandGraph(20, 54)
+20 already exists
+expandGraph(94, 59)
+divided 94 into 4 9
+expandGraph(4, 58)
+4 already exists
+expandGraph(9, 58)
+9 already exists
+expandGraph(2457, 60)
+divided 2457 into 57 24
+expandGraph(57, 59)
+divided 57 into 7 5
+expandGraph(7, 58)
+7 already exists
+expandGraph(5, 58)
+5 already exists
+expandGraph(24, 59)
+24 already exists
+expandGraph(2, 63)
+2 already exists
+expandGraph(3277, 65)
+divided 3277 into 77 32
+expandGraph(77, 64)
+divided 77 into 7 7
+expandGraph(7, 63)
+7 already exists
+expandGraph(7, 63)
+7 already exists
+expandGraph(32, 64)
+32 already exists
+expandGraph(18, 68)
+divided 18 into 8 1
+expandGraph(8, 67)
+8 already exists
+expandGraph(1, 67)
+1 already exists
+expandGraph(3439, 69)
+divided 3439 into 39 34
+expandGraph(39, 68)
+divided 39 into 9 3
+expandGraph(9, 67)
+9 already exists
+expandGraph(3, 67)
+3 already exists
+expandGraph(34, 68)
+divided 34 into 4 3
+expandGraph(4, 67)
+4 already exists
+expandGraph(3, 67)
+3 already exists
+expandGraph(34493, 71)
+expandGraph(69813832, 70)
+divided 69813832 into 3832 6981
+expandGraph(3832, 69)
+divided 3832 into 32 38
+expandGraph(32, 68)
+32 already exists
+expandGraph(38, 68)
+divided 38 into 8 3
+expandGraph(8, 67)
+8 already exists
+expandGraph(3, 67)
+3 already exists
+expandGraph(6981, 69)
+divided 6981 into 81 69
+expandGraph(81, 68)
+divided 81 into 1 8
+expandGraph(1, 67)
+1 already exists
+expandGraph(8, 67)
+8 already exists
+expandGraph(69, 68)
+divided 69 into 9 6
+expandGraph(9, 67)
+9 already exists
+expandGraph(6, 67)
+6 already exists
+expandGraph(965, 74)
+expandGraph(1953160, 73)
+expandGraph(3953195840, 72)
+divided 3953195840 into 95840 39531
+expandGraph(95840, 71)
+expandGraph(193980160, 70)
+expandGraph(392615843840, 69)
+divided 392615843840 into 843840 392615
+expandGraph(843840, 68)
+divided 843840 into 840 843
+expandGraph(840, 67)
+expandGraph(1700160, 66)
+expandGraph(3441123840, 65)
+divided 3441123840 into 23840 34411
+expandGraph(23840, 64)
+expandGraph(48252160, 63)
+divided 48252160 into 2160 4825
+expandGraph(2160, 62)
+divided 2160 into 60 21
+expandGraph(60, 61)
+60 already exists
+expandGraph(21, 61)
+divided 21 into 1 2
+expandGraph(1, 60)
+1 already exists
+expandGraph(2, 60)
+2 already exists
+expandGraph(4825, 62)
+divided 4825 into 25 48
+expandGraph(25, 61)
+divided 25 into 5 2
+expandGraph(5, 60)
+5 already exists
+expandGraph(2, 60)
+2 already exists
+expandGraph(48, 61)
+48 already exists
+expandGraph(34411, 64)
+expandGraph(69647864, 63)
+divided 69647864 into 7864 6964
+expandGraph(7864, 62)
+divided 7864 into 64 78
+expandGraph(64, 61)
+divided 64 into 4 6
+expandGraph(4, 60)
+4 already exists
+expandGraph(6, 60)
+6 already exists
+expandGraph(78, 61)
+divided 78 into 8 7
+expandGraph(8, 60)
+8 already exists
+expandGraph(7, 60)
+7 already exists
+expandGraph(6964, 62)
+divided 6964 into 64 69
+expandGraph(64, 61)
+64 already exists
+expandGraph(69, 61)
+69 already exists
+expandGraph(843, 67)
+expandGraph(1706232, 66)
+expandGraph(3453413568, 65)
+divided 3453413568 into 13568 34534
+expandGraph(13568, 64)
+expandGraph(27461632, 63)
+divided 27461632 into 1632 2746
+expandGraph(1632, 62)
+divided 1632 into 32 16
+expandGraph(32, 61)
+32 already exists
+expandGraph(16, 61)
+divided 16 into 6 1
+expandGraph(6, 60)
+6 already exists
+expandGraph(1, 60)
+1 already exists
+expandGraph(2746, 62)
+divided 2746 into 46 27
+expandGraph(46, 61)
+divided 46 into 6 4
+expandGraph(6, 60)
+6 already exists
+expandGraph(4, 60)
+4 already exists
+expandGraph(27, 61)
+divided 27 into 7 2
+expandGraph(7, 60)
+7 already exists
+expandGraph(2, 60)
+2 already exists
+expandGraph(34534, 64)
+expandGraph(69896816, 63)
+divided 69896816 into 6816 6989
+expandGraph(6816, 62)
+divided 6816 into 16 68
+expandGraph(16, 61)
+16 already exists
+expandGraph(68, 61)
+divided 68 into 8 6
+expandGraph(8, 60)
+8 already exists
+expandGraph(6, 60)
+6 already exists
+expandGraph(6989, 62)
+divided 6989 into 89 69
+expandGraph(89, 61)
+divided 89 into 9 8
+expandGraph(9, 60)
+9 already exists
+expandGraph(8, 60)
+8 already exists
+expandGraph(69, 61)
+69 already exists
+expandGraph(392615, 68)
+divided 392615 into 615 392
+expandGraph(615, 67)
+expandGraph(1244760, 66)
+expandGraph(2519394240, 65)
+divided 2519394240 into 94240 25193
+expandGraph(94240, 64)
+expandGraph(190741760, 63)
+expandGraph(386061322240, 62)
+divided 386061322240 into 322240 386061
+expandGraph(322240, 61)
+divided 322240 into 240 322
+expandGraph(240, 60)
+expandGraph(485760, 59)
+divided 485760 into 760 485
+expandGraph(760, 58)
+expandGraph(1538240, 57)
+expandGraph(3113397760, 56)
+divided 3113397760 into 97760 31133
+expandGraph(97760, 55)
+expandGraph(197866240, 54)
+expandGraph(400481269760, 53)
+divided 400481269760 into 269760 400481
+expandGraph(269760, 52)
+divided 269760 into 760 269
+expandGraph(760, 51)
+expandGraph(269, 51)
+expandGraph(544456, 50)
+divided 544456 into 456 544
+expandGraph(456, 49)
+expandGraph(922944, 48)
+divided 922944 into 944 922
+expandGraph(944, 47)
+expandGraph(1910656, 46)
+expandGraph(3867167744, 45)
+divided 3867167744 into 67744 38671
+expandGraph(67744, 44)
+expandGraph(137113856, 43)
+expandGraph(277518444544, 42)
+divided 277518444544 into 444544 277518
+expandGraph(444544, 41)
+divided 444544 into 544 444
+expandGraph(544, 40)
+expandGraph(1101056, 39)
+expandGraph(2228537344, 38)
+divided 2228537344 into 37344 22285
+expandGraph(37344, 37)
+expandGraph(75584256, 36)
+divided 75584256 into 4256 7558
+expandGraph(4256, 35)
+divided 4256 into 56 42
+expandGraph(56, 34)
+56 already exists
+expandGraph(42, 34)
+divided 42 into 2 4
+expandGraph(2, 33)
+2 already exists
+expandGraph(4, 33)
+4 already exists
+expandGraph(7558, 35)
+divided 7558 into 58 75
+expandGraph(58, 34)
+divided 58 into 8 5
+expandGraph(8, 33)
+8 already exists
+expandGraph(5, 33)
+5 already exists
+expandGraph(75, 34)
+divided 75 into 5 7
+expandGraph(5, 33)
+5 already exists
+expandGraph(7, 33)
+7 already exists
+expandGraph(22285, 37)
+expandGraph(45104840, 36)
+divided 45104840 into 4840 4510
+expandGraph(4840, 35)
+divided 4840 into 40 48
+expandGraph(40, 34)
+40 already exists
+expandGraph(48, 34)
+48 already exists
+expandGraph(4510, 35)
+divided 4510 into 10 45
+expandGraph(10, 34)
+divided 10 into 0 1
+expandGraph(0, 33)
+0 already exists
+expandGraph(1, 33)
+1 already exists
+expandGraph(45, 34)
+divided 45 into 5 4
+expandGraph(5, 33)
+5 already exists
+expandGraph(4, 33)
+4 already exists
+expandGraph(444, 40)
+expandGraph(898656, 39)
+divided 898656 into 656 898
+expandGraph(656, 38)
+expandGraph(1327744, 37)
+expandGraph(2687353856, 36)
+divided 2687353856 into 53856 26873
+expandGraph(53856, 35)
+expandGraph(109004544, 34)
+expandGraph(220625197056, 33)
+divided 220625197056 into 197056 220625
+expandGraph(197056, 32)
+divided 197056 into 56 197
+expandGraph(56, 31)
+56 already exists
+expandGraph(197, 31)
+expandGraph(398728, 30)
+divided 398728 into 728 398
+expandGraph(728, 29)
+expandGraph(1473472, 28)
+expandGraph(2982307328, 27)
+divided 2982307328 into 7328 29823
+expandGraph(7328, 26)
+divided 7328 into 28 73
+expandGraph(28, 25)
+28 already exists
+expandGraph(73, 25)
+divided 73 into 3 7
+expandGraph(3, 24)
+3 already exists
+expandGraph(7, 24)
+7 already exists
+expandGraph(29823, 26)
+expandGraph(60361752, 25)
+divided 60361752 into 1752 6036
+expandGraph(1752, 24)
+divided 1752 into 52 17
+expandGraph(52, 23)
+divided 52 into 2 5
+expandGraph(2, 22)
+2 already exists
+expandGraph(5, 22)
+5 already exists
+expandGraph(17, 23)
+divided 17 into 7 1
+expandGraph(7, 22)
+7 already exists
+expandGraph(1, 22)
+1 already exists
+expandGraph(6036, 24)
+divided 6036 into 36 60
+expandGraph(36, 23)
+36 already exists
+expandGraph(60, 23)
+60 already exists
+expandGraph(398, 29)
+expandGraph(805552, 28)
+divided 805552 into 552 805
+expandGraph(552, 27)
+expandGraph(1117248, 26)
+expandGraph(2261309952, 25)
+divided 2261309952 into 9952 22613
+expandGraph(9952, 24)
+divided 9952 into 52 99
+expandGraph(52, 23)
+52 already exists
+expandGraph(99, 23)
+divided 99 into 9 9
+expandGraph(9, 22)
+9 already exists
+expandGraph(9, 22)
+9 already exists
+expandGraph(22613, 24)
+expandGraph(45768712, 23)
+divided 45768712 into 8712 4576
+expandGraph(8712, 22)
+divided 8712 into 12 87
+expandGraph(12, 21)
+divided 12 into 2 1
+expandGraph(2, 20)
+2 already exists
+expandGraph(1, 20)
+1 already exists
+expandGraph(87, 21)
+divided 87 into 7 8
+expandGraph(7, 20)
+7 already exists
+expandGraph(8, 20)
+8 already exists
+expandGraph(4576, 22)
+divided 4576 into 76 45
+expandGraph(76, 21)
+divided 76 into 6 7
+expandGraph(6, 20)
+6 already exists
+expandGraph(7, 20)
+7 already exists
+expandGraph(45, 21)
+45 already exists
+expandGraph(805, 27)
+expandGraph(1629320, 26)
+expandGraph(3297743680, 25)
+divided 3297743680 into 43680 32977
+expandGraph(43680, 24)
+expandGraph(88408320, 23)
+divided 88408320 into 8320 8840
+expandGraph(8320, 22)
+divided 8320 into 20 83
+expandGraph(20, 21)
+20 already exists
+expandGraph(83, 21)
+divided 83 into 3 8
+expandGraph(3, 20)
+3 already exists
+expandGraph(8, 20)
+8 already exists
+expandGraph(8840, 22)
+divided 8840 into 40 88
+expandGraph(40, 21)
+40 already exists
+expandGraph(88, 21)
+divided 88 into 8 8
+expandGraph(8, 20)
+8 already exists
+expandGraph(8, 20)
+8 already exists
+expandGraph(32977, 24)
+expandGraph(66745448, 23)
+divided 66745448 into 5448 6674
+expandGraph(5448, 22)
+divided 5448 into 48 54
+expandGraph(48, 21)
+48 already exists
+expandGraph(54, 21)
+divided 54 into 4 5
+expandGraph(4, 20)
+4 already exists
+expandGraph(5, 20)
+5 already exists
+expandGraph(6674, 22)
+divided 6674 into 74 66
+expandGraph(74, 21)
+divided 74 into 4 7
+expandGraph(4, 20)
+4 already exists
+expandGraph(7, 20)
+7 already exists
+expandGraph(66, 21)
+divided 66 into 6 6
+expandGraph(6, 20)
+6 already exists
+expandGraph(6, 20)
+6 already exists
+expandGraph(220625, 32)
+divided 220625 into 625 220
+expandGraph(625, 31)
+expandGraph(1265000, 30)
+expandGraph(2560360000, 29)
+divided 2560360000 into 60000 25603
+expandGraph(60000, 28)
+expandGraph(121440000, 27)
+expandGraph(245794560000, 26)
+divided 245794560000 into 560000 245794
+expandGraph(560000, 25)
+divided 560000 into 0 560
+expandGraph(0, 24)
+0 already exists
+expandGraph(560, 24)
+expandGraph(1133440, 23)
+expandGraph(2294082560, 22)
+divided 2294082560 into 82560 22940
+expandGraph(82560, 21)
+expandGraph(167101440, 20)
+expandGraph(338213314560, 19)
+divided 338213314560 into 314560 338213
+expandGraph(314560, 18)
+divided 314560 into 560 314
+expandGraph(560, 17)
+expandGraph(314, 17)
+expandGraph(635536, 16)
+divided 635536 into 536 635
+expandGraph(536, 15)
+expandGraph(1084864, 14)
+expandGraph(2195764736, 13)
+divided 2195764736 into 64736 21957
+expandGraph(64736, 12)
+expandGraph(131025664, 11)
+expandGraph(265195943936, 10)
+divided 265195943936 into 943936 265195
+expandGraph(943936, 9)
+divided 943936 into 936 943
+expandGraph(936, 8)
+expandGraph(1894464, 7)
+expandGraph(3834395136, 6)
+divided 3834395136 into 95136 38343
+expandGraph(95136, 5)
+expandGraph(192555264, 4)
+expandGraph(389731854336, 3)
+divided 389731854336 into 854336 389731
+expandGraph(854336, 2)
+divided 854336 into 336 854
+expandGraph(336, 1)
+expandGraph(680064, 0)
+expandGraph(854, 1)
+expandGraph(1728496, 0)
+expandGraph(389731, 2)
+divided 389731 into 731 389
+expandGraph(731, 1)
+expandGraph(1479544, 0)
+expandGraph(389, 1)
+expandGraph(787336, 0)
+expandGraph(38343, 5)
+expandGraph(77606232, 4)
+divided 77606232 into 6232 7760
+expandGraph(6232, 3)
+divided 6232 into 32 62
+expandGraph(32, 2)
+32 already exists
+expandGraph(62, 2)
+divided 62 into 2 6
+expandGraph(2, 1)
+2 already exists
+expandGraph(6, 1)
+6 already exists
+expandGraph(7760, 3)
+divided 7760 into 60 77
+expandGraph(60, 2)
+60 already exists
+expandGraph(77, 2)
+77 already exists
+expandGraph(943, 8)
+expandGraph(1908632, 7)
+expandGraph(3863071168, 6)
+divided 3863071168 into 71168 38630
+expandGraph(71168, 5)
+expandGraph(144044032, 4)
+expandGraph(291545120768, 3)
+divided 291545120768 into 120768 291545
+expandGraph(120768, 2)
+divided 120768 into 768 120
+expandGraph(768, 1)
+expandGraph(1554432, 0)
+expandGraph(120, 1)
+expandGraph(242880, 0)
+expandGraph(291545, 2)
+divided 291545 into 545 291
+expandGraph(545, 1)
+expandGraph(1103080, 0)
+expandGraph(291, 1)
+expandGraph(588984, 0)
+expandGraph(38630, 5)
+expandGraph(78187120, 4)
+divided 78187120 into 7120 7818
+expandGraph(7120, 3)
+divided 7120 into 20 71
+expandGraph(20, 2)
+20 already exists
+expandGraph(71, 2)
+divided 71 into 1 7
+expandGraph(1, 1)
+1 already exists
+expandGraph(7, 1)
+7 already exists
+expandGraph(7818, 3)
+divided 7818 into 18 78
+expandGraph(18, 2)
+18 already exists
+expandGraph(78, 2)
+78 already exists
+expandGraph(265195, 9)
+divided 265195 into 195 265
+expandGraph(195, 8)
+expandGraph(394680, 7)
+divided 394680 into 680 394
+expandGraph(680, 6)
+expandGraph(1376320, 5)
+expandGraph(2785671680, 4)
+divided 2785671680 into 71680 27856
+expandGraph(71680, 3)
+expandGraph(145080320, 2)
+expandGraph(293642567680, 1)
+divided 293642567680 into 567680 293642
+expandGraph(567680, 0)
+expandGraph(293642, 0)
+expandGraph(27856, 3)
+expandGraph(56380544, 2)
+divided 56380544 into 544 5638
+expandGraph(544, 1)
+544 already exists
+expandGraph(5638, 1)
+divided 5638 into 38 56
+expandGraph(38, 0)
+38 already exists
+expandGraph(56, 0)
+56 already exists
+expandGraph(394, 6)
+expandGraph(797456, 5)
+divided 797456 into 456 797
+expandGraph(456, 4)
+expandGraph(797, 4)
+expandGraph(1613128, 3)
+expandGraph(3264971072, 2)
+divided 3264971072 into 71072 32649
+expandGraph(71072, 1)
+expandGraph(143849728, 0)
+expandGraph(32649, 1)
+expandGraph(66081576, 0)
+expandGraph(265, 8)
+expandGraph(536360, 7)
+divided 536360 into 360 536
+expandGraph(360, 6)
+expandGraph(728640, 5)
+divided 728640 into 640 728
+expandGraph(640, 4)
+expandGraph(1295360, 3)
+expandGraph(2621808640, 2)
+divided 2621808640 into 8640 26218
+expandGraph(8640, 1)
+divided 8640 into 40 86
+expandGraph(40, 0)
+40 already exists
+expandGraph(86, 0)
+86 already exists
+expandGraph(26218, 1)
+expandGraph(53065232, 0)
+expandGraph(728, 4)
+728 already exists
+expandGraph(536, 6)
+expandGraph(21957, 12)
+expandGraph(44440968, 11)
+divided 44440968 into 968 4444
+expandGraph(968, 10)
+expandGraph(1959232, 9)
+expandGraph(3965485568, 8)
+divided 3965485568 into 85568 39654
+expandGraph(85568, 7)
+expandGraph(173189632, 6)
+expandGraph(350535815168, 5)
+divided 350535815168 into 815168 350535
+expandGraph(815168, 4)
+divided 815168 into 168 815
+expandGraph(168, 3)
+expandGraph(340032, 2)
+divided 340032 into 32 340
+expandGraph(32, 1)
+32 already exists
+expandGraph(340, 1)
+expandGraph(688160, 0)
+expandGraph(815, 3)
+expandGraph(1649560, 2)
+expandGraph(3338709440, 1)
+divided 3338709440 into 9440 33387
+expandGraph(9440, 0)
+expandGraph(33387, 0)
+expandGraph(350535, 4)
+divided 350535 into 535 350
+expandGraph(535, 3)
+expandGraph(1082840, 2)
+expandGraph(2191668160, 1)
+divided 2191668160 into 68160 21916
+expandGraph(68160, 0)
+expandGraph(21916, 0)
+expandGraph(350, 3)
+expandGraph(708400, 2)
+divided 708400 into 400 708
+expandGraph(400, 1)
+expandGraph(809600, 0)
+expandGraph(708, 1)
+expandGraph(1432992, 0)
+expandGraph(39654, 7)
+expandGraph(80259696, 6)
+divided 80259696 into 9696 8025
+expandGraph(9696, 5)
+divided 9696 into 96 96
+expandGraph(96, 4)
+96 already exists
+expandGraph(96, 4)
+96 already exists
+expandGraph(8025, 5)
+divided 8025 into 25 80
+expandGraph(25, 4)
+25 already exists
+expandGraph(80, 4)
+80 already exists
+expandGraph(4444, 10)
+divided 4444 into 44 44
+expandGraph(44, 9)
+divided 44 into 4 4
+expandGraph(4, 8)
+4 already exists
+expandGraph(4, 8)
+4 already exists
+expandGraph(44, 9)
+44 already exists
+expandGraph(635, 15)
+expandGraph(1285240, 14)
+expandGraph(2601325760, 13)
+divided 2601325760 into 25760 26013
+expandGraph(25760, 12)
+expandGraph(52138240, 11)
+divided 52138240 into 8240 5213
+expandGraph(8240, 10)
+divided 8240 into 40 82
+expandGraph(40, 9)
+40 already exists
+expandGraph(82, 9)
+divided 82 into 2 8
+expandGraph(2, 8)
+2 already exists
+expandGraph(8, 8)
+8 already exists
+expandGraph(5213, 10)
+divided 5213 into 13 52
+expandGraph(13, 9)
+divided 13 into 3 1
+expandGraph(3, 8)
+3 already exists
+expandGraph(1, 8)
+1 already exists
+expandGraph(52, 9)
+52 already exists
+expandGraph(26013, 12)
+expandGraph(52650312, 11)
+divided 52650312 into 312 5265
+expandGraph(312, 10)
+expandGraph(631488, 9)
+divided 631488 into 488 631
+expandGraph(488, 8)
+expandGraph(987712, 7)
+divided 987712 into 712 987
+expandGraph(712, 6)
+expandGraph(1441088, 5)
+expandGraph(2916762112, 4)
+divided 2916762112 into 62112 29167
+expandGraph(62112, 3)
+expandGraph(125714688, 2)
+expandGraph(254446528512, 1)
+divided 254446528512 into 528512 254446
+expandGraph(528512, 0)
+expandGraph(254446, 0)
+expandGraph(29167, 3)
+expandGraph(59034008, 2)
+divided 59034008 into 4008 5903
+expandGraph(4008, 1)
+divided 4008 into 8 40
+expandGraph(8, 0)
+8 already exists
+expandGraph(40, 0)
+40 already exists
+expandGraph(5903, 1)
+divided 5903 into 3 59
+expandGraph(3, 0)
+3 already exists
+expandGraph(59, 0)
+expandGraph(987, 6)
+expandGraph(1997688, 5)
+expandGraph(4043320512, 4)
+divided 4043320512 into 20512 40433
+expandGraph(20512, 3)
+expandGraph(41516288, 2)
+divided 41516288 into 6288 4151
+expandGraph(6288, 1)
+divided 6288 into 88 62
+expandGraph(88, 0)
+88 already exists
+expandGraph(62, 0)
+62 already exists
+expandGraph(4151, 1)
+divided 4151 into 51 41
+expandGraph(51, 0)
+expandGraph(41, 0)
+expandGraph(40433, 3)
+expandGraph(81836392, 2)
+divided 81836392 into 6392 8183
+expandGraph(6392, 1)
+divided 6392 into 92 63
+expandGraph(92, 0)
+expandGraph(63, 0)
+expandGraph(8183, 1)
+divided 8183 into 83 81
+expandGraph(83, 0)
+83 already exists
+expandGraph(81, 0)
+81 already exists
+expandGraph(631, 8)
+expandGraph(1277144, 7)
+expandGraph(2584939456, 6)
+divided 2584939456 into 39456 25849
+expandGraph(39456, 5)
+expandGraph(79858944, 4)
+divided 79858944 into 8944 7985
+expandGraph(8944, 3)
+divided 8944 into 44 89
+expandGraph(44, 2)
+44 already exists
+expandGraph(89, 2)
+89 already exists
+expandGraph(7985, 3)
+divided 7985 into 85 79
+expandGraph(85, 2)
+divided 85 into 5 8
+expandGraph(5, 1)
+5 already exists
+expandGraph(8, 1)
+8 already exists
+expandGraph(79, 2)
+divided 79 into 9 7
+expandGraph(9, 1)
+9 already exists
+expandGraph(7, 1)
+7 already exists
+expandGraph(25849, 5)
+expandGraph(52318376, 4)
+divided 52318376 into 8376 5231
+expandGraph(8376, 3)
+divided 8376 into 76 83
+expandGraph(76, 2)
+76 already exists
+expandGraph(83, 2)
+83 already exists
+expandGraph(5231, 3)
+divided 5231 into 31 52
+expandGraph(31, 2)
+divided 31 into 1 3
+expandGraph(1, 1)
+1 already exists
+expandGraph(3, 1)
+3 already exists
+expandGraph(52, 2)
+52 already exists
+expandGraph(5265, 10)
+divided 5265 into 65 52
+expandGraph(65, 9)
+divided 65 into 5 6
+expandGraph(5, 8)
+5 already exists
+expandGraph(6, 8)
+6 already exists
+expandGraph(52, 9)
+52 already exists
+expandGraph(338213, 18)
+divided 338213 into 213 338
+expandGraph(213, 17)
+expandGraph(431112, 16)
+divided 431112 into 112 431
+expandGraph(112, 15)
+expandGraph(226688, 14)
+divided 226688 into 688 226
+expandGraph(688, 13)
+expandGraph(1392512, 12)
+expandGraph(2818444288, 11)
+divided 2818444288 into 44288 28184
+expandGraph(44288, 10)
+expandGraph(89638912, 9)
+divided 89638912 into 8912 8963
+expandGraph(8912, 8)
+divided 8912 into 12 89
+expandGraph(12, 7)
+12 already exists
+expandGraph(89, 7)
+89 already exists
+expandGraph(8963, 8)
+divided 8963 into 63 89
+expandGraph(63, 7)
+divided 63 into 3 6
+expandGraph(3, 6)
+3 already exists
+expandGraph(6, 6)
+6 already exists
+expandGraph(89, 7)
+89 already exists
+expandGraph(28184, 10)
+expandGraph(57044416, 9)
+divided 57044416 into 4416 5704
+expandGraph(4416, 8)
+divided 4416 into 16 44
+expandGraph(16, 7)
+16 already exists
+expandGraph(44, 7)
+44 already exists
+expandGraph(5704, 8)
+divided 5704 into 4 57
+expandGraph(4, 7)
+4 already exists
+expandGraph(57, 7)
+57 already exists
+expandGraph(226, 13)
+expandGraph(457424, 12)
+divided 457424 into 424 457
+expandGraph(424, 11)
+expandGraph(858176, 10)
+divided 858176 into 176 858
+expandGraph(176, 9)
+expandGraph(356224, 8)
+divided 356224 into 224 356
+expandGraph(224, 7)
+expandGraph(453376, 6)
+divided 453376 into 376 453
+expandGraph(376, 5)
+expandGraph(761024, 4)
+divided 761024 into 24 761
+expandGraph(24, 3)
+24 already exists
+expandGraph(761, 3)
+expandGraph(1540264, 2)
+expandGraph(3117494336, 1)
+divided 3117494336 into 94336 31174
+expandGraph(94336, 0)
+expandGraph(31174, 0)
+expandGraph(453, 5)
+expandGraph(916872, 4)
+divided 916872 into 872 916
+expandGraph(872, 3)
+expandGraph(1764928, 2)
+expandGraph(3572214272, 1)
+divided 3572214272 into 14272 35722
+expandGraph(14272, 0)
+expandGraph(35722, 0)
+expandGraph(916, 3)
+expandGraph(1853984, 2)
+expandGraph(3752463616, 1)
+divided 3752463616 into 63616 37524
+expandGraph(63616, 0)
+expandGraph(37524, 0)
+expandGraph(356, 7)
+expandGraph(720544, 6)
+divided 720544 into 544 720
+expandGraph(544, 5)
+expandGraph(720, 5)
+expandGraph(1457280, 4)
+expandGraph(2949534720, 3)
+divided 2949534720 into 34720 29495
+expandGraph(34720, 2)
+expandGraph(70273280, 1)
+divided 70273280 into 3280 7027
+expandGraph(3280, 0)
+expandGraph(7027, 0)
+expandGraph(29495, 2)
+expandGraph(59697880, 1)
+divided 59697880 into 7880 5969
+expandGraph(7880, 0)
+expandGraph(5969, 0)
+expandGraph(858, 9)
+expandGraph(1736592, 8)
+expandGraph(3514862208, 7)
+divided 3514862208 into 62208 35148
+expandGraph(62208, 6)
+expandGraph(125908992, 5)
+expandGraph(254839799808, 4)
+divided 254839799808 into 799808 254839
+expandGraph(799808, 3)
+divided 799808 into 808 799
+expandGraph(808, 2)
+expandGraph(1635392, 1)
+expandGraph(3310033408, 0)
+expandGraph(799, 2)
+expandGraph(1617176, 1)
+expandGraph(3273164224, 0)
+expandGraph(254839, 3)
+divided 254839 into 839 254
+expandGraph(839, 2)
+expandGraph(1698136, 1)
+expandGraph(3437027264, 0)
+expandGraph(254, 2)
+expandGraph(514096, 1)
+divided 514096 into 96 514
+expandGraph(96, 0)
+96 already exists
+expandGraph(514, 0)
+expandGraph(35148, 6)
+expandGraph(71139552, 5)
+divided 71139552 into 9552 7113
+expandGraph(9552, 4)
+divided 9552 into 52 95
+expandGraph(52, 3)
+52 already exists
+expandGraph(95, 3)
+divided 95 into 5 9
+expandGraph(5, 2)
+5 already exists
+expandGraph(9, 2)
+9 already exists
+expandGraph(7113, 4)
+divided 7113 into 13 71
+expandGraph(13, 3)
+13 already exists
+expandGraph(71, 3)
+71 already exists
+expandGraph(457, 11)
+expandGraph(924968, 10)
+divided 924968 into 968 924
+expandGraph(968, 9)
+968 already exists
+expandGraph(924, 9)
+expandGraph(1870176, 8)
+expandGraph(3785236224, 7)
+divided 3785236224 into 36224 37852
+expandGraph(36224, 6)
+expandGraph(73317376, 5)
+divided 73317376 into 7376 7331
+expandGraph(7376, 4)
+divided 7376 into 76 73
+expandGraph(76, 3)
+76 already exists
+expandGraph(73, 3)
+73 already exists
+expandGraph(7331, 4)
+divided 7331 into 31 73
+expandGraph(31, 3)
+31 already exists
+expandGraph(73, 3)
+73 already exists
+expandGraph(37852, 6)
+expandGraph(76612448, 5)
+divided 76612448 into 2448 7661
+expandGraph(2448, 4)
+divided 2448 into 48 24
+expandGraph(48, 3)
+48 already exists
+expandGraph(24, 3)
+24 already exists
+expandGraph(7661, 4)
+divided 7661 into 61 76
+expandGraph(61, 3)
+divided 61 into 1 6
+expandGraph(1, 2)
+1 already exists
+expandGraph(6, 2)
+6 already exists
+expandGraph(76, 3)
+76 already exists
+expandGraph(431, 15)
+expandGraph(872344, 14)
+divided 872344 into 344 872
+expandGraph(344, 13)
+expandGraph(696256, 12)
+divided 696256 into 256 696
+expandGraph(256, 11)
+expandGraph(518144, 10)
+divided 518144 into 144 518
+expandGraph(144, 9)
+expandGraph(291456, 8)
+divided 291456 into 456 291
+expandGraph(456, 7)
+expandGraph(291, 7)
+291 already exists
+expandGraph(518, 9)
+expandGraph(1048432, 8)
+expandGraph(2122026368, 7)
+divided 2122026368 into 26368 21220
+expandGraph(26368, 6)
+expandGraph(53368832, 5)
+divided 53368832 into 8832 5336
+expandGraph(8832, 4)
+divided 8832 into 32 88
+expandGraph(32, 3)
+32 already exists
+expandGraph(88, 3)
+88 already exists
+expandGraph(5336, 4)
+divided 5336 into 36 53
+expandGraph(36, 3)
+36 already exists
+expandGraph(53, 3)
+divided 53 into 3 5
+expandGraph(3, 2)
+3 already exists
+expandGraph(5, 2)
+5 already exists
+expandGraph(21220, 6)
+expandGraph(42949280, 5)
+divided 42949280 into 9280 4294
+expandGraph(9280, 4)
+divided 9280 into 80 92
+expandGraph(80, 3)
+80 already exists
+expandGraph(92, 3)
+divided 92 into 2 9
+expandGraph(2, 2)
+2 already exists
+expandGraph(9, 2)
+9 already exists
+expandGraph(4294, 4)
+divided 4294 into 94 42
+expandGraph(94, 3)
+94 already exists
+expandGraph(42, 3)
+divided 42 into 2 4
+expandGraph(2, 2)
+2 already exists
+expandGraph(4, 2)
+4 already exists
+expandGraph(696, 11)
+expandGraph(1408704, 10)
+expandGraph(2851216896, 9)
+divided 2851216896 into 16896 28512
+expandGraph(16896, 8)
+expandGraph(34197504, 7)
+divided 34197504 into 7504 3419
+expandGraph(7504, 6)
+divided 7504 into 4 75
+expandGraph(4, 5)
+4 already exists
+expandGraph(75, 5)
+75 already exists
+expandGraph(3419, 6)
+divided 3419 into 19 34
+expandGraph(19, 5)
+divided 19 into 9 1
+expandGraph(9, 4)
+9 already exists
+expandGraph(1, 4)
+1 already exists
+expandGraph(34, 5)
+34 already exists
+expandGraph(28512, 8)
+expandGraph(57708288, 7)
+divided 57708288 into 8288 5770
+expandGraph(8288, 6)
+divided 8288 into 88 82
+expandGraph(88, 5)
+88 already exists
+expandGraph(82, 5)
+82 already exists
+expandGraph(5770, 6)
+divided 5770 into 70 57
+expandGraph(70, 5)
+divided 70 into 0 7
+expandGraph(0, 4)
+0 already exists
+expandGraph(7, 4)
+7 already exists
+expandGraph(57, 5)
+57 already exists
+expandGraph(872, 13)
+872 already exists
+expandGraph(338, 17)
+expandGraph(684112, 16)
+divided 684112 into 112 684
+expandGraph(112, 15)
+112 already exists
+expandGraph(684, 15)
+expandGraph(1384416, 14)
+expandGraph(2802057984, 13)
+divided 2802057984 into 57984 28020
+expandGraph(57984, 12)
+expandGraph(117359616, 11)
+expandGraph(237535862784, 10)
+divided 237535862784 into 862784 237535
+expandGraph(862784, 9)
+divided 862784 into 784 862
+expandGraph(784, 8)
+expandGraph(1586816, 7)
+expandGraph(3211715584, 6)
+divided 3211715584 into 15584 32117
+expandGraph(15584, 5)
+expandGraph(31542016, 4)
+divided 31542016 into 2016 3154
+expandGraph(2016, 3)
+divided 2016 into 16 20
+expandGraph(16, 2)
+16 already exists
+expandGraph(20, 2)
+20 already exists
+expandGraph(3154, 3)
+divided 3154 into 54 31
+expandGraph(54, 2)
+54 already exists
+expandGraph(31, 2)
+31 already exists
+expandGraph(32117, 5)
+expandGraph(65004808, 4)
+divided 65004808 into 4808 6500
+expandGraph(4808, 3)
+divided 4808 into 8 48
+expandGraph(8, 2)
+8 already exists
+expandGraph(48, 2)
+48 already exists
+expandGraph(6500, 3)
+divided 6500 into 0 65
+expandGraph(0, 2)
+0 already exists
+expandGraph(65, 2)
+65 already exists
+expandGraph(862, 8)
+expandGraph(1744688, 7)
+expandGraph(3531248512, 6)
+divided 3531248512 into 48512 35312
+expandGraph(48512, 5)
+expandGraph(98188288, 4)
+divided 98188288 into 8288 9818
+expandGraph(8288, 3)
+8288 already exists
+expandGraph(9818, 3)
+divided 9818 into 18 98
+expandGraph(18, 2)
+18 already exists
+expandGraph(98, 2)
+divided 98 into 8 9
+expandGraph(8, 1)
+8 already exists
+expandGraph(9, 1)
+9 already exists
+expandGraph(35312, 5)
+expandGraph(71471488, 4)
+divided 71471488 into 1488 7147
+expandGraph(1488, 3)
+divided 1488 into 88 14
+expandGraph(88, 2)
+88 already exists
+expandGraph(14, 2)
+divided 14 into 4 1
+expandGraph(4, 1)
+4 already exists
+expandGraph(1, 1)
+1 already exists
+expandGraph(7147, 3)
+divided 7147 into 47 71
+expandGraph(47, 2)
+divided 47 into 7 4
+expandGraph(7, 1)
+7 already exists
+expandGraph(4, 1)
+4 already exists
+expandGraph(71, 2)
+71 already exists
+expandGraph(237535, 9)
+divided 237535 into 535 237
+expandGraph(535, 8)
+535 already exists
+expandGraph(237, 8)
+expandGraph(479688, 7)
+divided 479688 into 688 479
+expandGraph(688, 6)
+688 already exists
+expandGraph(479, 6)
+expandGraph(969496, 5)
+divided 969496 into 496 969
+expandGraph(496, 4)
+expandGraph(1003904, 3)
+expandGraph(2031901696, 2)
+divided 2031901696 into 1696 20319
+expandGraph(1696, 1)
+divided 1696 into 96 16
+expandGraph(96, 0)
+96 already exists
+expandGraph(16, 0)
+16 already exists
+expandGraph(20319, 1)
+expandGraph(41125656, 0)
+expandGraph(969, 4)
+expandGraph(1961256, 3)
+expandGraph(3969582144, 2)
+divided 3969582144 into 82144 39695
+expandGraph(82144, 1)
+expandGraph(166259456, 0)
+expandGraph(39695, 1)
+expandGraph(80342680, 0)
+expandGraph(28020, 12)
+expandGraph(56712480, 11)
+divided 56712480 into 2480 5671
+expandGraph(2480, 10)
+divided 2480 into 80 24
+expandGraph(80, 9)
+80 already exists
+expandGraph(24, 9)
+24 already exists
+expandGraph(5671, 10)
+divided 5671 into 71 56
+expandGraph(71, 9)
+71 already exists
+expandGraph(56, 9)
+56 already exists
+expandGraph(22940, 21)
+expandGraph(46430560, 20)
+divided 46430560 into 560 4643
+expandGraph(560, 19)
+560 already exists
+expandGraph(4643, 19)
+divided 4643 into 43 46
+expandGraph(43, 18)
+divided 43 into 3 4
+expandGraph(3, 17)
+3 already exists
+expandGraph(4, 17)
+4 already exists
+expandGraph(46, 18)
+46 already exists
+expandGraph(245794, 25)
+divided 245794 into 794 245
+expandGraph(794, 24)
+expandGraph(1607056, 23)
+expandGraph(3252681344, 22)
+divided 3252681344 into 81344 32526
+expandGraph(81344, 21)
+expandGraph(164640256, 20)
+expandGraph(333231878144, 19)
+divided 333231878144 into 878144 333231
+expandGraph(878144, 18)
+divided 878144 into 144 878
+expandGraph(144, 17)
+144 already exists
+expandGraph(878, 17)
+expandGraph(1777072, 16)
+expandGraph(3596793728, 15)
+divided 3596793728 into 93728 35967
+expandGraph(93728, 14)
+expandGraph(189705472, 13)
+expandGraph(383963875328, 12)
+divided 383963875328 into 875328 383963
+expandGraph(875328, 11)
+divided 875328 into 328 875
+expandGraph(328, 10)
+expandGraph(663872, 9)
+divided 663872 into 872 663
+expandGraph(872, 8)
+872 already exists
+expandGraph(663, 8)
+expandGraph(1341912, 7)
+expandGraph(2716029888, 6)
+divided 2716029888 into 29888 27160
+expandGraph(29888, 5)
+expandGraph(60493312, 4)
+divided 60493312 into 3312 6049
+expandGraph(3312, 3)
+divided 3312 into 12 33
+expandGraph(12, 2)
+12 already exists
+expandGraph(33, 2)
+divided 33 into 3 3
+expandGraph(3, 1)
+3 already exists
+expandGraph(3, 1)
+3 already exists
+expandGraph(6049, 3)
+divided 6049 into 49 60
+expandGraph(49, 2)
+divided 49 into 9 4
+expandGraph(9, 1)
+9 already exists
+expandGraph(4, 1)
+4 already exists
+expandGraph(60, 2)
+60 already exists
+expandGraph(27160, 5)
+expandGraph(54971840, 4)
+divided 54971840 into 1840 5497
+expandGraph(1840, 3)
+divided 1840 into 40 18
+expandGraph(40, 2)
+40 already exists
+expandGraph(18, 2)
+18 already exists
+expandGraph(5497, 3)
+divided 5497 into 97 54
+expandGraph(97, 2)
+divided 97 into 7 9
+expandGraph(7, 1)
+7 already exists
+expandGraph(9, 1)
+9 already exists
+expandGraph(54, 2)
+54 already exists
+expandGraph(875, 10)
+expandGraph(1771000, 9)
+expandGraph(3584504000, 8)
+divided 3584504000 into 4000 35845
+expandGraph(4000, 7)
+divided 4000 into 0 40
+expandGraph(0, 6)
+0 already exists
+expandGraph(40, 6)
+40 already exists
+expandGraph(35845, 7)
+expandGraph(72550280, 6)
+divided 72550280 into 280 7255
+expandGraph(280, 5)
+expandGraph(566720, 4)
+divided 566720 into 720 566
+expandGraph(720, 3)
+720 already exists
+expandGraph(566, 3)
+expandGraph(1145584, 2)
+expandGraph(2318662016, 1)
+divided 2318662016 into 62016 23186
+expandGraph(62016, 0)
+expandGraph(23186, 0)
+expandGraph(7255, 5)
+divided 7255 into 55 72
+expandGraph(55, 4)
+divided 55 into 5 5
+expandGraph(5, 3)
+5 already exists
+expandGraph(5, 3)
+5 already exists
+expandGraph(72, 4)
+72 already exists
+expandGraph(383963, 11)
+divided 383963 into 963 383
+expandGraph(963, 10)
+expandGraph(1949112, 9)
+expandGraph(3945002688, 8)
+divided 3945002688 into 2688 39450
+expandGraph(2688, 7)
+divided 2688 into 88 26
+expandGraph(88, 6)
+88 already exists
+expandGraph(26, 6)
+26 already exists
+expandGraph(39450, 7)
+expandGraph(79846800, 6)
+divided 79846800 into 6800 7984
+expandGraph(6800, 5)
+divided 6800 into 0 68
+expandGraph(0, 4)
+0 already exists
+expandGraph(68, 4)
+68 already exists
+expandGraph(7984, 5)
+divided 7984 into 84 79
+expandGraph(84, 4)
+84 already exists
+expandGraph(79, 4)
+79 already exists
+expandGraph(383, 10)
+expandGraph(775192, 9)
+divided 775192 into 192 775
+expandGraph(192, 8)
+expandGraph(388608, 7)
+divided 388608 into 608 388
+expandGraph(608, 6)
+expandGraph(1230592, 5)
+expandGraph(2490718208, 4)
+divided 2490718208 into 18208 24907
+expandGraph(18208, 3)
+expandGraph(36852992, 2)
+divided 36852992 into 2992 3685
+expandGraph(2992, 1)
+divided 2992 into 92 29
+expandGraph(92, 0)
+92 already exists
+expandGraph(29, 0)
+expandGraph(3685, 1)
+divided 3685 into 85 36
+expandGraph(85, 0)
+85 already exists
+expandGraph(36, 0)
+36 already exists
+expandGraph(24907, 3)
+expandGraph(50411768, 2)
+divided 50411768 into 1768 5041
+expandGraph(1768, 1)
+divided 1768 into 68 17
+expandGraph(68, 0)
+68 already exists
+expandGraph(17, 0)
+17 already exists
+expandGraph(5041, 1)
+divided 5041 into 41 50
+expandGraph(41, 0)
+expandGraph(50, 0)
+expandGraph(388, 6)
+expandGraph(785312, 5)
+divided 785312 into 312 785
+expandGraph(312, 4)
+312 already exists
+expandGraph(785, 4)
+expandGraph(1588840, 3)
+expandGraph(3215812160, 2)
+divided 3215812160 into 12160 32158
+expandGraph(12160, 1)
+expandGraph(24611840, 0)
+expandGraph(32158, 1)
+expandGraph(65087792, 0)
+expandGraph(775, 8)
+expandGraph(1568600, 7)
+expandGraph(3174846400, 6)
+divided 3174846400 into 46400 31748
+expandGraph(46400, 5)
+expandGraph(93913600, 4)
+divided 93913600 into 3600 9391
+expandGraph(3600, 3)
+divided 3600 into 0 36
+expandGraph(0, 2)
+0 already exists
+expandGraph(36, 2)
+36 already exists
+expandGraph(9391, 3)
+divided 9391 into 91 93
+expandGraph(91, 2)
+divided 91 into 1 9
+expandGraph(1, 1)
+1 already exists
+expandGraph(9, 1)
+9 already exists
+expandGraph(93, 2)
+divided 93 into 3 9
+expandGraph(3, 1)
+3 already exists
+expandGraph(9, 1)
+9 already exists
+expandGraph(31748, 5)
+expandGraph(64257952, 4)
+divided 64257952 into 7952 6425
+expandGraph(7952, 3)
+divided 7952 into 52 79
+expandGraph(52, 2)
+52 already exists
+expandGraph(79, 2)
+79 already exists
+expandGraph(6425, 3)
+divided 6425 into 25 64
+expandGraph(25, 2)
+25 already exists
+expandGraph(64, 2)
+64 already exists
+expandGraph(35967, 14)
+expandGraph(72797208, 13)
+divided 72797208 into 7208 7279
+expandGraph(7208, 12)
+divided 7208 into 8 72
+expandGraph(8, 11)
+8 already exists
+expandGraph(72, 11)
+72 already exists
+expandGraph(7279, 12)
+divided 7279 into 79 72
+expandGraph(79, 11)
+79 already exists
+expandGraph(72, 11)
+72 already exists
+expandGraph(333231, 18)
+divided 333231 into 231 333
+expandGraph(231, 17)
+expandGraph(467544, 16)
+divided 467544 into 544 467
+expandGraph(544, 15)
+544 already exists
+expandGraph(467, 15)
+expandGraph(945208, 14)
+divided 945208 into 208 945
+expandGraph(208, 13)
+expandGraph(420992, 12)
+divided 420992 into 992 420
+expandGraph(992, 11)
+expandGraph(2007808, 10)
+expandGraph(4063803392, 9)
+divided 4063803392 into 3392 40638
+expandGraph(3392, 8)
+divided 3392 into 92 33
+expandGraph(92, 7)
+92 already exists
+expandGraph(33, 7)
+33 already exists
+expandGraph(40638, 8)
+expandGraph(82251312, 7)
+divided 82251312 into 1312 8225
+expandGraph(1312, 6)
+divided 1312 into 12 13
+expandGraph(12, 5)
+12 already exists
+expandGraph(13, 5)
+13 already exists
+expandGraph(8225, 6)
+divided 8225 into 25 82
+expandGraph(25, 5)
+25 already exists
+expandGraph(82, 5)
+divided 82 into 2 8
+expandGraph(2, 4)
+2 already exists
+expandGraph(8, 4)
+8 already exists
+expandGraph(420, 11)
+expandGraph(850080, 10)
+divided 850080 into 80 850
+expandGraph(80, 9)
+80 already exists
+expandGraph(850, 9)
+expandGraph(1720400, 8)
+expandGraph(3482089600, 7)
+divided 3482089600 into 89600 34820
+expandGraph(89600, 6)
+expandGraph(181350400, 5)
+expandGraph(367053209600, 4)
+divided 367053209600 into 209600 367053
+expandGraph(209600, 3)
+divided 209600 into 600 209
+expandGraph(600, 2)
+expandGraph(1214400, 1)
+expandGraph(2457945600, 0)
+expandGraph(209, 2)
+expandGraph(423016, 1)
+divided 423016 into 16 423
+expandGraph(16, 0)
+16 already exists
+expandGraph(423, 0)
+expandGraph(367053, 3)
+divided 367053 into 53 367
+expandGraph(53, 2)
+53 already exists
+expandGraph(367, 2)
+expandGraph(742808, 1)
+divided 742808 into 808 742
+expandGraph(808, 0)
+808 already exists
+expandGraph(742, 0)
+expandGraph(34820, 6)
+expandGraph(70475680, 5)
+divided 70475680 into 5680 7047
+expandGraph(5680, 4)
+divided 5680 into 80 56
+expandGraph(80, 3)
+80 already exists
+expandGraph(56, 3)
+56 already exists
+expandGraph(7047, 4)
+divided 7047 into 47 70
+expandGraph(47, 3)
+47 already exists
+expandGraph(70, 3)
+70 already exists
+expandGraph(945, 13)
+expandGraph(1912680, 12)
+expandGraph(3871264320, 11)
+divided 3871264320 into 64320 38712
+expandGraph(64320, 10)
+expandGraph(130183680, 9)
+expandGraph(263491768320, 8)
+divided 263491768320 into 768320 263491
+expandGraph(768320, 7)
+divided 768320 into 320 768
+expandGraph(320, 6)
+expandGraph(647680, 5)
+divided 647680 into 680 647
+expandGraph(680, 4)
+680 already exists
+expandGraph(647, 4)
+expandGraph(1309528, 3)
+expandGraph(2650484672, 2)
+divided 2650484672 into 84672 26504
+expandGraph(84672, 1)
+expandGraph(171376128, 0)
+expandGraph(26504, 1)
+expandGraph(53644096, 0)
+expandGraph(768, 6)
+768 already exists
+expandGraph(263491, 7)
+divided 263491 into 491 263
+expandGraph(491, 6)
+expandGraph(993784, 5)
+divided 993784 into 784 993
+expandGraph(784, 4)
+784 already exists
+expandGraph(993, 4)
+expandGraph(2009832, 3)
+expandGraph(4067899968, 2)
+divided 4067899968 into 99968 40678
+expandGraph(99968, 1)
+expandGraph(202335232, 0)
+expandGraph(40678, 1)
+expandGraph(82332272, 0)
+expandGraph(263, 6)
+expandGraph(532312, 5)
+divided 532312 into 312 532
+expandGraph(312, 4)
+312 already exists
+expandGraph(532, 4)
+expandGraph(1076768, 3)
+expandGraph(2179378432, 2)
+divided 2179378432 into 78432 21793
+expandGraph(78432, 1)
+expandGraph(158746368, 0)
+expandGraph(21793, 1)
+expandGraph(44109032, 0)
+expandGraph(38712, 10)
+expandGraph(78353088, 9)
+divided 78353088 into 3088 7835
+expandGraph(3088, 8)
+divided 3088 into 88 30
+expandGraph(88, 7)
+88 already exists
+expandGraph(30, 7)
+divided 30 into 0 3
+expandGraph(0, 6)
+0 already exists
+expandGraph(3, 6)
+3 already exists
+expandGraph(7835, 8)
+divided 7835 into 35 78
+expandGraph(35, 7)
+divided 35 into 5 3
+expandGraph(5, 6)
+5 already exists
+expandGraph(3, 6)
+3 already exists
+expandGraph(78, 7)
+78 already exists
+expandGraph(333, 17)
+expandGraph(673992, 16)
+divided 673992 into 992 673
+expandGraph(992, 15)
+992 already exists
+expandGraph(673, 15)
+expandGraph(1362152, 14)
+expandGraph(2756995648, 13)
+divided 2756995648 into 95648 27569
+expandGraph(95648, 12)
+expandGraph(193591552, 11)
+expandGraph(391829301248, 10)
+divided 391829301248 into 301248 391829
+expandGraph(301248, 9)
+divided 301248 into 248 301
+expandGraph(248, 8)
+expandGraph(501952, 7)
+divided 501952 into 952 501
+expandGraph(952, 6)
+expandGraph(1926848, 5)
+expandGraph(3899940352, 4)
+divided 3899940352 into 40352 38999
+expandGraph(40352, 3)
+expandGraph(81672448, 2)
+divided 81672448 into 2448 8167
+expandGraph(2448, 1)
+2448 already exists
+expandGraph(8167, 1)
+divided 8167 into 67 81
+expandGraph(67, 0)
+67 already exists
+expandGraph(81, 0)
+81 already exists
+expandGraph(38999, 3)
+expandGraph(78933976, 2)
+divided 78933976 into 3976 7893
+expandGraph(3976, 1)
+divided 3976 into 76 39
+expandGraph(76, 0)
+76 already exists
+expandGraph(39, 0)
+39 already exists
+expandGraph(7893, 1)
+divided 7893 into 93 78
+expandGraph(93, 0)
+93 already exists
+expandGraph(78, 0)
+78 already exists
+expandGraph(501, 6)
+expandGraph(1014024, 5)
+expandGraph(2052384576, 4)
+divided 2052384576 into 84576 20523
+expandGraph(84576, 3)
+expandGraph(171181824, 2)
+expandGraph(346472011776, 1)
+divided 346472011776 into 11776 346472
+expandGraph(11776, 0)
+expandGraph(346472, 0)
+expandGraph(20523, 3)
+expandGraph(41538552, 2)
+divided 41538552 into 8552 4153
+expandGraph(8552, 1)
+divided 8552 into 52 85
+expandGraph(52, 0)
+52 already exists
+expandGraph(85, 0)
+85 already exists
+expandGraph(4153, 1)
+divided 4153 into 53 41
+expandGraph(53, 0)
+53 already exists
+expandGraph(41, 0)
+expandGraph(301, 8)
+expandGraph(609224, 7)
+divided 609224 into 224 609
+expandGraph(224, 6)
+224 already exists
+expandGraph(609, 6)
+expandGraph(1232616, 5)
+expandGraph(2494814784, 4)
+divided 2494814784 into 14784 24948
+expandGraph(14784, 3)
+expandGraph(29922816, 2)
+divided 29922816 into 2816 2992
+expandGraph(2816, 1)
+divided 2816 into 16 28
+expandGraph(16, 0)
+16 already exists
+expandGraph(28, 0)
+28 already exists
+expandGraph(2992, 1)
+2992 already exists
+expandGraph(24948, 3)
+expandGraph(50494752, 2)
+divided 50494752 into 4752 5049
+expandGraph(4752, 1)
+divided 4752 into 52 47
+expandGraph(52, 0)
+52 already exists
+expandGraph(47, 0)
+47 already exists
+expandGraph(5049, 1)
+divided 5049 into 49 50
+expandGraph(49, 0)
+49 already exists
+expandGraph(50, 0)
+expandGraph(391829, 9)
+divided 391829 into 829 391
+expandGraph(829, 8)
+expandGraph(1677896, 7)
+expandGraph(3396061504, 6)
+divided 3396061504 into 61504 33960
+expandGraph(61504, 5)
+expandGraph(124484096, 4)
+expandGraph(251955810304, 3)
+divided 251955810304 into 810304 251955
+expandGraph(810304, 2)
+divided 810304 into 304 810
+expandGraph(304, 1)
+expandGraph(615296, 0)
+expandGraph(810, 1)
+expandGraph(1639440, 0)
+expandGraph(251955, 2)
+divided 251955 into 955 251
+expandGraph(955, 1)
+expandGraph(1932920, 0)
+expandGraph(251, 1)
+expandGraph(508024, 0)
+expandGraph(33960, 5)
+expandGraph(68735040, 4)
+divided 68735040 into 5040 6873
+expandGraph(5040, 3)
+divided 5040 into 40 50
+expandGraph(40, 2)
+40 already exists
+expandGraph(50, 2)
+divided 50 into 0 5
+expandGraph(0, 1)
+0 already exists
+expandGraph(5, 1)
+5 already exists
+expandGraph(6873, 3)
+divided 6873 into 73 68
+expandGraph(73, 2)
+73 already exists
+expandGraph(68, 2)
+68 already exists
+expandGraph(391, 8)
+expandGraph(791384, 7)
+divided 791384 into 384 791
+expandGraph(384, 6)
+expandGraph(777216, 5)
+divided 777216 into 216 777
+expandGraph(216, 4)
+expandGraph(437184, 3)
+divided 437184 into 184 437
+expandGraph(184, 2)
+expandGraph(372416, 1)
+divided 372416 into 416 372
+expandGraph(416, 0)
+expandGraph(372, 0)
+expandGraph(437, 2)
+expandGraph(884488, 1)
+divided 884488 into 488 884
+expandGraph(488, 0)
+488 already exists
+expandGraph(884, 0)
+expandGraph(777, 4)
+expandGraph(1572648, 3)
+expandGraph(3183039552, 2)
+divided 3183039552 into 39552 31830
+expandGraph(39552, 1)
+expandGraph(80053248, 0)
+expandGraph(31830, 1)
+expandGraph(64423920, 0)
+expandGraph(791, 6)
+expandGraph(1600984, 5)
+expandGraph(3240391616, 4)
+divided 3240391616 into 91616 32403
+expandGraph(91616, 3)
+expandGraph(185430784, 2)
+expandGraph(375311906816, 1)
+divided 375311906816 into 906816 375311
+expandGraph(906816, 0)
+expandGraph(375311, 0)
+expandGraph(32403, 3)
+expandGraph(65583672, 2)
+divided 65583672 into 3672 6558
+expandGraph(3672, 1)
+divided 3672 into 72 36
+expandGraph(72, 0)
+72 already exists
+expandGraph(36, 0)
+36 already exists
+expandGraph(6558, 1)
+divided 6558 into 58 65
+expandGraph(58, 0)
+58 already exists
+expandGraph(65, 0)
+65 already exists
+expandGraph(27569, 12)
+expandGraph(55799656, 11)
+divided 55799656 into 9656 5579
+expandGraph(9656, 10)
+divided 9656 into 56 96
+expandGraph(56, 9)
+56 already exists
+expandGraph(96, 9)
+divided 96 into 6 9
+expandGraph(6, 8)
+6 already exists
+expandGraph(9, 8)
+9 already exists
+expandGraph(5579, 10)
+divided 5579 into 79 55
+expandGraph(79, 9)
+79 already exists
+expandGraph(55, 9)
+55 already exists
+expandGraph(32526, 21)
+expandGraph(65832624, 20)
+divided 65832624 into 2624 6583
+expandGraph(2624, 19)
+divided 2624 into 24 26
+expandGraph(24, 18)
+24 already exists
+expandGraph(26, 18)
+26 already exists
+expandGraph(6583, 19)
+divided 6583 into 83 65
+expandGraph(83, 18)
+83 already exists
+expandGraph(65, 18)
+65 already exists
+expandGraph(245, 24)
+expandGraph(495880, 23)
+divided 495880 into 880 495
+expandGraph(880, 22)
+expandGraph(1781120, 21)
+expandGraph(3604986880, 20)
+divided 3604986880 into 86880 36049
+expandGraph(86880, 19)
+expandGraph(175845120, 18)
+expandGraph(355910522880, 17)
+divided 355910522880 into 522880 355910
+expandGraph(522880, 16)
+divided 522880 into 880 522
+expandGraph(880, 15)
+expandGraph(522, 15)
+expandGraph(1056528, 14)
+expandGraph(2138412672, 13)
+divided 2138412672 into 12672 21384
+expandGraph(12672, 12)
+expandGraph(25648128, 11)
+divided 25648128 into 8128 2564
+expandGraph(8128, 10)
+divided 8128 into 28 81
+expandGraph(28, 9)
+28 already exists
+expandGraph(81, 9)
+81 already exists
+expandGraph(2564, 10)
+divided 2564 into 64 25
+expandGraph(64, 9)
+64 already exists
+expandGraph(25, 9)
+25 already exists
+expandGraph(21384, 12)
+expandGraph(43281216, 11)
+divided 43281216 into 1216 4328
+expandGraph(1216, 10)
+divided 1216 into 16 12
+expandGraph(16, 9)
+16 already exists
+expandGraph(12, 9)
+12 already exists
+expandGraph(4328, 10)
+divided 4328 into 28 43
+expandGraph(28, 9)
+28 already exists
+expandGraph(43, 9)
+43 already exists
+expandGraph(355910, 16)
+divided 355910 into 910 355
+expandGraph(910, 15)
+expandGraph(1841840, 14)
+expandGraph(3727884160, 13)
+divided 3727884160 into 84160 37278
+expandGraph(84160, 12)
+expandGraph(170339840, 11)
+expandGraph(344767836160, 10)
+divided 344767836160 into 836160 344767
+expandGraph(836160, 9)
+divided 836160 into 160 836
+expandGraph(160, 8)
+expandGraph(323840, 7)
+divided 323840 into 840 323
+expandGraph(840, 6)
+840 already exists
+expandGraph(323, 6)
+expandGraph(653752, 5)
+divided 653752 into 752 653
+expandGraph(752, 4)
+expandGraph(1522048, 3)
+expandGraph(3080625152, 2)
+divided 3080625152 into 25152 30806
+expandGraph(25152, 1)
+expandGraph(50907648, 0)
+expandGraph(30806, 1)
+expandGraph(62351344, 0)
+expandGraph(653, 4)
+expandGraph(1321672, 3)
+expandGraph(2675064128, 2)
+divided 2675064128 into 64128 26750
+expandGraph(64128, 1)
+expandGraph(129795072, 0)
+expandGraph(26750, 1)
+expandGraph(54142000, 0)
+expandGraph(836, 8)
+expandGraph(1692064, 7)
+expandGraph(3424737536, 6)
+divided 3424737536 into 37536 34247
+expandGraph(37536, 5)
+expandGraph(75972864, 4)
+divided 75972864 into 2864 7597
+expandGraph(2864, 3)
+divided 2864 into 64 28
+expandGraph(64, 2)
+64 already exists
+expandGraph(28, 2)
+28 already exists
+expandGraph(7597, 3)
+divided 7597 into 97 75
+expandGraph(97, 2)
+97 already exists
+expandGraph(75, 2)
+75 already exists
+expandGraph(34247, 5)
+expandGraph(69315928, 4)
+divided 69315928 into 5928 6931
+expandGraph(5928, 3)
+divided 5928 into 28 59
+expandGraph(28, 2)
+28 already exists
+expandGraph(59, 2)
+divided 59 into 9 5
+expandGraph(9, 1)
+9 already exists
+expandGraph(5, 1)
+5 already exists
+expandGraph(6931, 3)
+divided 6931 into 31 69
+expandGraph(31, 2)
+31 already exists
+expandGraph(69, 2)
+69 already exists
+expandGraph(344767, 9)
+divided 344767 into 767 344
+expandGraph(767, 8)
+expandGraph(1552408, 7)
+expandGraph(3142073792, 6)
+divided 3142073792 into 73792 31420
+expandGraph(73792, 5)
+expandGraph(149355008, 4)
+expandGraph(302294536192, 3)
+divided 302294536192 into 536192 302294
+expandGraph(536192, 2)
+divided 536192 into 192 536
+expandGraph(192, 1)
+192 already exists
+expandGraph(536, 1)
+536 already exists
+expandGraph(302294, 2)
+divided 302294 into 294 302
+expandGraph(294, 1)
+expandGraph(595056, 0)
+expandGraph(302, 1)
+expandGraph(611248, 0)
+expandGraph(31420, 5)
+expandGraph(63594080, 4)
+divided 63594080 into 4080 6359
+expandGraph(4080, 3)
+divided 4080 into 80 40
+expandGraph(80, 2)
+80 already exists
+expandGraph(40, 2)
+40 already exists
+expandGraph(6359, 3)
+divided 6359 into 59 63
+expandGraph(59, 2)
+59 already exists
+expandGraph(63, 2)
+63 already exists
+expandGraph(344, 8)
+344 already exists
+expandGraph(37278, 12)
+expandGraph(75450672, 11)
+divided 75450672 into 672 7545
+expandGraph(672, 10)
+expandGraph(1360128, 9)
+expandGraph(2752899072, 8)
+divided 2752899072 into 99072 27528
+expandGraph(99072, 7)
+expandGraph(200521728, 6)
+expandGraph(405855977472, 5)
+divided 405855977472 into 977472 405855
+expandGraph(977472, 4)
+divided 977472 into 472 977
+expandGraph(472, 3)
+expandGraph(955328, 2)
+divided 955328 into 328 955
+expandGraph(328, 1)
+328 already exists
+expandGraph(955, 1)
+955 already exists
+expandGraph(977, 3)
+expandGraph(1977448, 2)
+expandGraph(4002354752, 1)
+divided 4002354752 into 54752 40023
+expandGraph(54752, 0)
+expandGraph(40023, 0)
+expandGraph(405855, 4)
+divided 405855 into 855 405
+expandGraph(855, 3)
+expandGraph(1730520, 2)
+expandGraph(3502572480, 1)
+divided 3502572480 into 72480 35025
+expandGraph(72480, 0)
+expandGraph(35025, 0)
+expandGraph(405, 3)
+expandGraph(819720, 2)
+divided 819720 into 720 819
+expandGraph(720, 1)
+720 already exists
+expandGraph(819, 1)
+expandGraph(1657656, 0)
+expandGraph(27528, 7)
+expandGraph(55716672, 6)
+divided 55716672 into 6672 5571
+expandGraph(6672, 5)
+divided 6672 into 72 66
+expandGraph(72, 4)
+72 already exists
+expandGraph(66, 4)
+66 already exists
+expandGraph(5571, 5)
+divided 5571 into 71 55
+expandGraph(71, 4)
+71 already exists
+expandGraph(55, 4)
+55 already exists
+expandGraph(7545, 10)
+divided 7545 into 45 75
+expandGraph(45, 9)
+45 already exists
+expandGraph(75, 9)
+75 already exists
+expandGraph(355, 15)
+expandGraph(718520, 14)
+divided 718520 into 520 718
+expandGraph(520, 13)
+expandGraph(1052480, 12)
+expandGraph(2130219520, 11)
+divided 2130219520 into 19520 21302
+expandGraph(19520, 10)
+expandGraph(39508480, 9)
+divided 39508480 into 8480 3950
+expandGraph(8480, 8)
+divided 8480 into 80 84
+expandGraph(80, 7)
+80 already exists
+expandGraph(84, 7)
+84 already exists
+expandGraph(3950, 8)
+divided 3950 into 50 39
+expandGraph(50, 7)
+50 already exists
+expandGraph(39, 7)
+39 already exists
+expandGraph(21302, 10)
+expandGraph(43115248, 9)
+divided 43115248 into 5248 4311
+expandGraph(5248, 8)
+divided 5248 into 48 52
+expandGraph(48, 7)
+48 already exists
+expandGraph(52, 7)
+52 already exists
+expandGraph(4311, 8)
+divided 4311 into 11 43
+expandGraph(11, 7)
+divided 11 into 1 1
+expandGraph(1, 6)
+1 already exists
+expandGraph(1, 6)
+1 already exists
+expandGraph(43, 7)
+43 already exists
+expandGraph(718, 13)
+expandGraph(1453232, 12)
+expandGraph(2941341568, 11)
+divided 2941341568 into 41568 29413
+expandGraph(41568, 10)
+expandGraph(84133632, 9)
+divided 84133632 into 3632 8413
+expandGraph(3632, 8)
+divided 3632 into 32 36
+expandGraph(32, 7)
+32 already exists
+expandGraph(36, 7)
+36 already exists
+expandGraph(8413, 8)
+divided 8413 into 13 84
+expandGraph(13, 7)
+13 already exists
+expandGraph(84, 7)
+84 already exists
+expandGraph(29413, 10)
+expandGraph(59531912, 9)
+divided 59531912 into 1912 5953
+expandGraph(1912, 8)
+divided 1912 into 12 19
+expandGraph(12, 7)
+12 already exists
+expandGraph(19, 7)
+19 already exists
+expandGraph(5953, 8)
+divided 5953 into 53 59
+expandGraph(53, 7)
+53 already exists
+expandGraph(59, 7)
+59 already exists
+expandGraph(36049, 19)
+expandGraph(72963176, 18)
+divided 72963176 into 3176 7296
+expandGraph(3176, 17)
+divided 3176 into 76 31
+expandGraph(76, 16)
+76 already exists
+expandGraph(31, 16)
+31 already exists
+expandGraph(7296, 17)
