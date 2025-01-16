@@ -6,7 +6,9 @@ import "core:strings"
 import "core:mem"
 import "core:strconv"
 
-getNumLength :: proc (num: i64) -> u64 {
+num_type :: i128
+
+getNumLength :: proc (num: num_type) -> u64 {
     numClone := num
     count: u64 = 0
     for numClone > 0 {
@@ -17,21 +19,38 @@ getNumLength :: proc (num: i64) -> u64 {
     return count
 }
 
+divideNum :: proc (num: num_type) -> (num_type, num_type, bool){
+    numLength := getNumLength(num)
+    if numLength % 2 != 0 {
+        return 0, 0, false
+    }
+
+    divider: num_type = 1
+    for _ in 0..<numLength/2 {
+        divider *= 10
+    }
+    num1 := num / divider
+    num2 := num % divider
+
+    return num1, num2, true
+}
+
 ParseError :: enum {
     AllocatorError,
     ConversionError,
 }
 
-parse :: proc (file: string) -> ([]i64, ParseError) {
+parse :: proc (file: string) -> ([]num_type, ParseError) {
     splitResult, splitError := strings.split(file, " ")
+    defer delete(splitResult)
     if splitError != nil {
         return nil, ParseError.AllocatorError
     }
     
-    nums := [dynamic]i64{}
+    nums := [dynamic]num_type{}
     for i in 0..<len(splitResult) {
         num := splitResult[i]
-        n, ok := strconv.parse_i64(strings.trim_space(num), 10)
+        n, ok := strconv.parse_i128(strings.trim_space(num), 10)
         if !ok {
             fmt.println("could not convert", num)
             continue
@@ -42,8 +61,8 @@ parse :: proc (file: string) -> ([]i64, ParseError) {
     return nums[:], nil
 }
 
-part1 :: proc (nums: []i64) -> int {
-    nums_can_grow := [dynamic]i64{}
+part1 :: proc (nums: []num_type) -> int {
+    nums_can_grow := [dynamic]num_type{}
     defer delete(nums_can_grow)
     for num in nums {
         append(&nums_can_grow, num)
@@ -60,7 +79,7 @@ part1 :: proc (nums: []i64) -> int {
 
             numLength := getNumLength(nums_can_grow[i])
             if numLength % 2 == 0 {
-                divider: i64 = 1
+                divider: num_type = 1
                 for _ in 0..<numLength/2 {
                     divider *= 10
                 }
@@ -76,132 +95,71 @@ part1 :: proc (nums: []i64) -> int {
     return len(nums_can_grow)
 }
 
-Node :: struct {
-    num: i64,
-    steps: uint,
-    left: ^Node,
-    right: ^Node,
-}
 
-nodes := [dynamic]Node{}
-numToNode := map[i64]^Node{}
-
-addNode :: proc (node: Node) {
-    append(&nodes, node)
-    numToNode[node.num] = &nodes[len(nodes)-1]
-}
-
-countStones :: proc (node: ^Node, steps: uint) -> int {
-    //fmt.printf("increaseEnding(%d, %d)\n", node.num, steps)
+stones :: proc (num: num_type, steps: int, memo: ^map[num_type]^[76]int) -> int {
+    // fmt.printf("stones(%d, %d)\n", num, steps)
     if steps == 0 {
         return 1
     }
 
-    count := 0
-    if node.left != nil {
-        count += countStones(node.left, steps - 1)
+    stepList, ok := memo[num]
+    if ok && stepList[steps] != 0 {
+        // fmt.printf("retrieving memo[%d][%d] = %d\n", num, steps, stepList[steps])
+        return stepList[steps]
     }
 
-    if node.right != nil {
-        count += countStones(node.right, steps - 1)
-    }
-
-    return count
-}
-
-expandGraph :: proc (num: i64, steps: uint) {
-    fmt.printf("expandGraph(%d, %d)\n", num, steps)
-
-    node, ok := numToNode[num]
-    if ok && node.left != nil {
-        fmt.println(num, "already exists", node.steps, steps)
-        if node.steps < steps {
-            fmt.println(num, "has to get deeper")
-            fmt.println("left", node.left)
-            expandGraph(node.left.num, steps - 1)
-            if node.right != nil {
-                fmt.println("right", node.right)
-                expandGraph(node.right.num, steps - 1)
-            }
-            node.steps = steps
-        }
-        return
-    }
-
-    if node == nil {
-        node = &Node {
-            num = num,
-            steps = steps,
-            left = nil,
-            right = nil,
-        }
-    }
-    node = numToNode[num]
-
-    if steps == 0 {
-        addNode(node^)
-        return
+    if !ok {
+        memo[num] = new([76]int)
+        stepList = memo[num]
+        stepList[0] = 1
     }
 
     if num == 0 {
-        succ, ok := numToNode[1]
-        if !ok {
-            expandGraph(1, steps - 1)
-            succ = numToNode[1]
+        for step in 0..<steps {
+            s := stones(1, step, memo)
+            stepList[step + 1] = s
+            // fmt.printf("memo[%d][%d] = %d\n", num, step + 1, s)
         }
-        node.left = succ
-        return
-    }
 
+        return stepList[steps]
+    }
     
-    numLength := getNumLength(num)
-    if numLength % 2 == 0 {
-        divider: i64 = 1
-        for _ in 0..<numLength/2 {
-            divider *= 10
+    if num1, num2, ok := divideNum(num); ok {
+        for step in 0..<steps {
+            s1 := stones(num1, step, memo)
+            s2 := stones(num2, step, memo)
+            stepList[step + 1] = s1 + s2
+            // fmt.printf("memo[%d][%d] = %d + %d = %d\n", num, step + 1, s1, s2, s1 + s2)
         }
-        num1 := num % divider
-        num2 := num / divider
-        fmt.println("divided", num, "into", num1, num2)
 
-        expandGraph(num1, steps - 1)
-        succ1 := numToNode[num1]
-
-        expandGraph(num2, steps - 1)
-        succ2 := numToNode[num2]
-
-        node.left = succ1
-        node.right = succ2
-        
-        addNode(node^)
-        return
+        return stepList[steps]
     }
-
 
     newNum := num * 2024
-    succ, ok2024 := numToNode[newNum]
-    if !ok2024 {
-        expandGraph(newNum, steps - 1)
-        succ = numToNode[newNum]
+
+    for step in 0..<steps {
+        s := stones(newNum, step, memo)
+        stepList[step + 1] = s
+        // fmt.printf("memo[%d][%d] = %d\n", num, step + 1, s)
     }
-    node.left = succ
-    addNode(node^)
+
+    return stepList[steps]
 }
 
-part2 :: proc (nums: []i64) -> int {
-    blinks :: 25
-    for num in nums {
-        expandGraph(num, blinks)
+part2 :: proc (nums: []num_type) -> int {
+    memo: map[num_type]^[76]int
+    defer {
+        for _, v in memo {
+            free(v)
+        }
+        delete(memo)
     }
 
-    fmt.println(len(nodes))
-
-    fmt.println("now counting")
     count := 0
     for num in nums {
-        count += countStones(numToNode[num], blinks)
+        count += stones(num, 75, &memo)
     }
-
+    
     return count
 }
 
@@ -210,13 +168,14 @@ main :: proc () {
     if readError != nil {
         fmt.panicf("error reading file: %v", readError)
     }
+    defer delete(fileBytes)
     file := string(fileBytes)
     nums, parseError := parse(file)
     if parseError != nil {
         fmt.panicf("error parsing file: %v", parseError)
     }
     defer delete(nums)
-    
+
     fmt.println("part1 result:", part1(nums))
     fmt.println("part2 result:", part2(nums))
 }
